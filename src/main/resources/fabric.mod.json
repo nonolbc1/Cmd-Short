@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "CmdShort",
   "description": "",
-  "authors": [],
+  "authors": ["Nonolbc1"],
   "contact": {},
   "license": "All-Rights-Reserved",
   "icon": "assets/cmdshort/icon.png",
